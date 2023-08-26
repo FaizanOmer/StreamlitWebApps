@@ -1,7 +1,7 @@
 # StreamlitWebApps
 # Simple Calculator Web App with Streamlit
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](BMI.png)
 
 ## Overview
 
